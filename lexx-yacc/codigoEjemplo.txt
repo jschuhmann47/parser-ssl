@@ -1,0 +1,5 @@
+start
+aa=4+5-1;
+entrada 45;
+salida aa-90;
+end
