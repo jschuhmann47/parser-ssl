@@ -1,6 +1,9 @@
-SINTAXIS Y SEMÁNTICA DE LOS LENGUAJES
-K2032 - 2021
-TRABAJO PRÁCTICO N° 3
+
+# SINTAXIS Y SEMÁNTICA DE LOS LENGUAJES
+
+## K2032 - 2021
+
+## TRABAJO PRÁCTICO N° 3
 
 Se desea desarrollar un compilador para un lenguaje de programación creado por el grupo.
 Este lenguaje debe ser bien sencillo, similar a Micro.
