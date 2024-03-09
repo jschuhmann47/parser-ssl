@@ -4,6 +4,8 @@ Assignment for the subject "Languages Syntax and Semantics" (Sintáxis y Semánt
 
 The language developed is similar to Micro. A program starts with the keyword `start`, ends with `end` and has variable assignation, `entrada` and `salida` (input and output) with and expression that can be either a variable or a constant with additions and substractions. 
 
+Both the parser and scanner were made in pure C first, and using Flex and Bison after.
+
 Example valid code:
 
 ```c
