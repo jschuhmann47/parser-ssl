@@ -1,10 +1,10 @@
 # TP SSL 2021
 
-Trabajo Practico de la materia Sintaxis y Semantica de los Lenguajes que consistia en hacer un parser y un scanner para un lenguaje de programacion inventado.
+Assignment for the subject "Languages Syntax and Semantics" (Sintáxis y Semántica de los Lenguajes) where a parser and scanner was made for an invented programming language.
 
-El lenguaje desarrollado es similar a Micro. Empieza con la keyword `start`, termina con `end` y admite asignacion, `entrada` y `salida`, todas con una expresion que puede ser una variable o una constante, con sumas y restas.
+The language developed is similar to Micro. A program starts with the keyword `start`, ends with `end` and has variable assignation, `entrada` and `salida` (input and output) with and expression that can be either a variable or a constant with additions and substractions. 
 
-Codigo de ejemplo:
+Example valid code:
 
 ```c
 start
